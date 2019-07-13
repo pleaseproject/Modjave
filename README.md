@@ -1,6 +1,6 @@
 # **Modjave**
 
-![Screenshot](/home/god/Desktop/Screenshot.png)
+![Screenshot](https://github.com/ghunterjs/Modjave/blob/master/Screenshot.png)
 
 
 
